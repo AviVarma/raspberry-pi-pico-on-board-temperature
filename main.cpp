@@ -4,7 +4,7 @@
 #include "hardware/adc.h"
 
 /**
-* These are the following pages used within the documentation provided used to get he resulting code below.
+* These are the following pages used within the documentation provided used to get the resulting code below.
 * Raspberry Pi Pico Python SDK | Page 15
 * RP2040 Datasheet | Page 572
 * Raspberry Pi Pico C/C++ SDK | Page 69
